@@ -1,0 +1,10 @@
+POST http://localhost:3000/url
+Content-Type: application/json
+
+{
+  "url": "com.zaal.cashback://store/1"
+}
+
+###
+
+GET http://localhost:3000/IGLkKQ6z1rUcLZsMljq37
